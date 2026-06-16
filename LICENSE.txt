@@ -1,0 +1,17 @@
+Copyright (c) 2026 Rozix Systems
+
+All rights reserved.
+
+This software is provided free of charge for personal and commercial use.
+
+You may use and distribute the original, unmodified application package.
+
+You may NOT:
+- Reverse engineer, decompile, or modify the application.
+- Redistribute modified versions of the application.
+- Sell the application or include it in commercial software bundles without written permission from Rozix Systems.
+
+The application is provided "as is", without warranty of any kind. Rozix Systems shall not be liable for any damages arising from the use of this software.
+
+Facebook:
+https://www.facebook.com/RozixSystems
