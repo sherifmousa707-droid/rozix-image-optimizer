@@ -11,6 +11,12 @@ Rozix Image Optimizer is a free Windows desktop application developed by Rozix S
 - Arabic user interface
 - Drag and Drop support
 
+## Screenshots
+
+![Screenshot 1](Screenshot%20(50).png)
+
+![Screenshot 2](Screenshot%20(51).png)
+
 ## Download
 
 Download the latest version from the Releases section.
